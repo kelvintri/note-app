@@ -13,7 +13,7 @@
             <textarea id="content" name="content" rows="4" required class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-blue-500"></textarea>
         </div>
         <button type="submit" class="w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
-            Create Note
+            <i class="fas fa-save mr-2"></i>Create Note
         </button>
     </form>
 </div>
