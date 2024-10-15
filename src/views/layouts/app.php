@@ -12,7 +12,7 @@ $isLoggedIn = isset($_SESSION['user_id']);
 </head>
 <body class="flex flex-col min-h-screen bg-gray-100">
     <nav class="bg-white shadow-lg">
-        <div class="max-w-6xl mx-auto px-4">
+        <div class="max-w-7xl mx-auto px-4">
             <div class="flex justify-between items-center py-4">
                 <div>
                     <a href="?route=home" class="font-semibold text-gray-500 text-lg">
